@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 Lisa Wiesinger
+# SPDX-License-Identifier: MIT
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/

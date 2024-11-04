@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2024 Lisa Wiesinger
+# SPDX-License-Identifier: MIT
+
+license:
+  name: MIT
+  url: https://opensource.org/licenses/MIT
+copyright:
+  owner: "Lisa Wiesinger"
+  year: "2024"
+contributor:
+  - "Lisa Wiesinger"

@@ -1,0 +1,12 @@
+<!-- SPDX-FileCopyrightText: 2024 Lisa Wiesinger -->
+<!-- SPDX-License-Identifier: MIT -->
+<component name="libraryTable">
+  <library name="junit" type="repository">
+    <properties maven-id="junit:junit:4.8.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.8.2/junit-4.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
